@@ -9,7 +9,7 @@ Pueden usar este código para construir su Proyecto Integrador.
 
 Den clic en donde dice clone , luego donde dice .zip, guardan esa carpeta en el escritorio. 
 
-# Para ejecurarlo
+# Para ejecutarlo
 
 Asegurense que la musica este en la misma carpeta. Pueden ponerle la musica que quieran borrando ese archivo mp3 y poniendo su musica con el nombre "music.mp3".
 
