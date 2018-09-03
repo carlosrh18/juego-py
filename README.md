@@ -16,9 +16,9 @@ Asegurense que la musica este en la misma carpeta. Pueden ponerle la musica que 
 # comandos 
 
 En termial: (no pongan el $, eso significa que estan en la terminal)
-$cd desktop  
-$cd juego-py
-$pythonw jumper.py
+   $cd desktop  
+   $cd juego-py
+   $pythonw jumper.py
 
 # ojo
 
