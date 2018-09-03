@@ -8,15 +8,12 @@ POR EL MOMENTO NO TIENE NIVELES NI ENEMIGOS
 from numpy import *
 import pygame
 import os
-import pygameMenu
-#LIBRERIA QUE DESCAERGUE PARA CREAR MENUS
-from pygameMenu.locals import * 
+
 
 
 # Constantes globales
 
 
-ABOUT = ['ENGINEERING JUMPER','BY CARLOS A. ROBLES']
 
 pygame.init()
 os.environ['SDL_VIDEO_CENTERED'] = '1'
@@ -24,10 +21,6 @@ os.environ['SDL_VIDEO_CENTERED'] = '1'
 jump = pygame.mixer.Sound('jump.wav')
 pygame.mixer.music.load('music.mp3')
    
-#Menu info
-COLOR_BACKGROUND = (128, 0, 128)
-FPS = 60.0
-MENU_BACKGROUND_COLOR = (228, 55, 36)
 
 # Colores
 NEGRO = (0, 0, 0) 
