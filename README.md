@@ -5,4 +5,4 @@ FIE JUMPER es un juego salta plataformas en python realizado en pygame. El prese
 
 Pueden usar este código para construir su Proyecto Integrador.
 
-image = (http://www.letsintern.com/blog/wp-content/uploads/2017/03/career-options-after-bsc-computer-science-e1489736895942.jpg)
+image:: http://www.letsintern.com/blog/wp-content/uploads/2017/03/career-options-after-bsc-computer-science-e1489736895942.jpg
